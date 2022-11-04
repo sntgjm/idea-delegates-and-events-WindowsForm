@@ -1,0 +1,12 @@
+C:\Users\Josem\Documents\review\AccountRegistration\obj\Debug\AccountRegistration.csproj.AssemblyReference.cache
+C:\Users\Josem\Documents\review\AccountRegistration\obj\Debug\AccountRegistration.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josem\Documents\review\AccountRegistration\obj\Debug\AccountRegistration.Form1.resources
+C:\Users\Josem\Documents\review\AccountRegistration\obj\Debug\AccountRegistration.Form2.resources
+C:\Users\Josem\Documents\review\AccountRegistration\obj\Debug\AccountRegistration.Properties.Resources.resources
+C:\Users\Josem\Documents\review\AccountRegistration\obj\Debug\AccountRegistration.csproj.GenerateResource.cache
+C:\Users\Josem\Documents\review\AccountRegistration\obj\Debug\AccountRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Josem\Documents\review\AccountRegistration\bin\Debug\AccountRegistration.exe.config
+C:\Users\Josem\Documents\review\AccountRegistration\bin\Debug\AccountRegistration.exe
+C:\Users\Josem\Documents\review\AccountRegistration\bin\Debug\AccountRegistration.pdb
+C:\Users\Josem\Documents\review\AccountRegistration\obj\Debug\AccountRegistration.exe
+C:\Users\Josem\Documents\review\AccountRegistration\obj\Debug\AccountRegistration.pdb
